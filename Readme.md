@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-# PRANAV GAWAII
+# PRANAV GAWAI
 
 ### **AI ENGINEER & FULL STACK DEVELOPER**
 *Designing Intelligent Systems & Scalable Web Infrastructure*
