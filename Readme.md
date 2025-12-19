@@ -1,88 +1,55 @@
 <div align="center">
 
-<!-- Banner Placeholder - You can add a custom banner here later -->
-<!-- <img src="./assets/banner.png" width="100%" /> -->
+<img src="./assets/minimal_banner.png" width="100%" />
 
-# ⚡ Pranav Gawaii
+<br/>
+<br/>
 
-### AI & Software Developer
-*Building the future with Code & Logic*
+# Pranav Gawaii
+
+**AI & Software Developer**  
+*Engineering Scalable Solutions & Intelligent Systems.*
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64B5F6&background=00000000&center=true&vCenter=true&width=435&lines=Building+scalable+web+apps;exploring+LLM+behaviors;Solving+real-world+problems..." alt="Typing SVG" />
-</a>
+<a href="https://linkedin.com/in/pranavgawaii"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/pranavgawaii"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+<a href="mailto:pranav@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/>
-
-<p align="center">
-  <a href="https://linkedin.com/in/pranavgawaii" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/pranavgawaii" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:pranav@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<br/>
 
 </div>
 
+---
+
+### About
+
+> Experienced developer focused on **Distributed Systems** and **Large Language Models**. I build products that solve complex problems with clean, maintainable code.
+
+- **Current Focus:** Sankalan V2 (EdTech Platform)
+- **Primary Stack:** Python, TypeScript, React, Next.js
+- **Location:** India
+
 <br/>
 
----
-
-### 🧐 About Me
-
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=pranavgawaii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3" width="400" />
-
-I'm a developer based in **India**, passionate about the intersection of **Artificial Intelligence** and **Software Engineering**. 
-
-My focus? Building robust, scalable applications and diving deep into the weird and wonderful world of Large Language Models.
-
-- 🔭 I’m currently working on **Sankalan V2** (Student Platform).
-- 🌱 I’m currently learning **Distributed Systems**.
-- 💬 Ask me about **React, Next.js, and Python**.
-
-<br clear="both"/>
-
----
-
-### 🛠️ Tech Stack using
+### Technologies
 
 <div align="center">
 
-| Core | Frontend | Backend | AI & Tools |
+| **Languages** | **Frameworks** | **Infrastructure** | **Design & Tools** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,ts" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongo" /> | <img src="https://skillicons.dev/icons?i=tensorflow,figma,git,docker" /> |
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/pranavgawaii">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pranavgawaii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</a>
-<a href="https://github.com/pranavgawaii">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgawaii&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</a>
-
-<br/>
-
-<a href="https://github.com/pranavgawaii">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavgawaii&theme=tokyonight&hide_border=true&background=00000000" />
-</a>
+| <img src="https://skillicons.dev/icons?i=python,ts,js,cpp&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" /> | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,mongo&theme=dark" /> | <img src="https://skillicons.dev/icons?i=figma,git,linux,vscode&theme=dark" /> |
 
 </div>
 
 <br/>
 
+### Analytics
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranavgawaii&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavgawaii&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=58a6ff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgawaii&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999" height="150" />
 </div>
+
+<br/>
