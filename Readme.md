@@ -1,9 +1,15 @@
 <div align="center">
 
+  <a href="#"><strong>HOME</strong></a><span> • </span>
+  <a href="#-portfolio"><strong>WORK</strong></a><span> • </span>
+  <a href="#-stack"><strong>STACK</strong></a><span> • </span>
+  <a href="#-connect"><strong>CONNECT</strong></a>
 
+  <br />
+  <br />
 
-<br/>
-<br/>
+  <h1>PRANAV GAWAII</h1>
+  <p><em>Engineering the Future with AI & Scale</em></p>
 
 # PRANAV GAWAI
 
@@ -21,57 +27,76 @@
 
 </div>
 
----
-
-### 👨‍💻 About Me
-
-> I am a software engineer specializing in **High-Scale Web Applications** and **Large Language Models**. My work bridges the gap between theoretical AI and production-grade software, focusing on performance, reliability, and user-centric design.
-
-- **Current Focus:** Building *Sankalan V2*, an advanced platform for student resources.
-- **Expertise:** Python (PyTorch/TensorFlow), JavaScript (React/Next.js), and Cloud Infrastructure.
-
-<br/>
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Type |
-| :--- | :--- | :--- | :---: |
-| **Sankalan V2** | Comprehensive EdTech platform offering PYQs, assignments, and roadmaps for students. | `Next.js` `Node` `Postgres` | 🌐 |
-| **LLM Evaluator** | *Active Development.* A framework for testing LLM behavior and hallucination rates in distributed systems. | `Python` `LangChain` | 🤖 |
-| **DevFolio** | A high-performance, minimalist portfolio template for developers. | `React` `Tailwind` | 🎨 |
-
-<br/>
-
-### 🛠️ Technical Arsenal
-
 <div align="center">
 
-| **Core & AI** | **Frontend & UI** | **Backend & Cloud** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=light" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=light" /> | <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongo,docker&theme=light" /> |
+<h3>🧠 AI & Intelligence</h3>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" height="50" alt="AI Stack" />
+
+<br/>
+
+<h3>⚡ Full Stack Development</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs&theme=dark" height="50" alt="Full Stack" />
+
+<br/>
+
+<h3>☁️ Cloud & DevOps</h3>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,mongo&theme=dark" height="50" alt="Cloud Stack" />
 
 </div>
 
-<br/>
+<br />
 
-### 📈 Contribution & Analytics
+<h3>📂 Portfolio</h3>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <div align="center">
+        <h3>Sankalan V2</h3>
+        <p><strong>The Ultimate Student Platform</strong></p>
+        <p>A comprehensive ecosystem for students featuring Previous Year Questions (PYQs), dynamic roadmaps, and assignment tracking.</p>
+        <br />
+        <img src="https://skillicons.dev/icons?i=nextjs,postgres,prisma,vercel&theme=dark" height="30" />
+        <br />
+        <br />
+        <a href="#"><strong>Explore Case Study →</strong></a>
+      </div>
+    </td>
+    <td width="40%" valign="top">
+      <div align="center">
+        <h3>LLM Evaluator</h3>
+        <p><strong>AI Reliability Framework</strong></p>
+        <p>Testing hallucination rates in RAG pipelines.</p>
+        <br />
+        <img src="https://skillicons.dev/icons?i=python,langchain,openai&theme=dark" height="30" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h3>� Dashboard</h3>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavgawaii&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=pranavgawaii&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=58a6ff" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgawaii&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999" height="160" />
-
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=pranavgawaii&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" width="100%" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgawaii&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="100%" />
+      </td>
+    </tr>
+  </table>
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavgawaii&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
   <sub><em>"The best way to predict the future is to invent it!!!"</em></sub>
 </div>
 
-<br/>
+<br />
