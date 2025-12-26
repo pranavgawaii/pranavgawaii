@@ -11,8 +11,6 @@
   <h1>PRANAV GAWAII</h1>
   <p><em>Engineering the Future with AI & Scale</em></p>
 
-# PRANAV GAWAI
-
 ### **AI ENGINEER & FULL STACK DEVELOPER**
 *Designing Intelligent Systems & Scalable Web Infrastructure*
 
