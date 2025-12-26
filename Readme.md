@@ -46,51 +46,40 @@
 
 <br />
 
+<div align="center">
+
 <h3>📂 Portfolio</h3>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <div align="center">
-        <h3>Sankalan V2</h3>
-        <p><strong>The Ultimate Student Platform</strong></p>
-        <p>A comprehensive ecosystem for students featuring Previous Year Questions (PYQs), dynamic roadmaps, and assignment tracking.</p>
-        <br />
-        <img src="https://skillicons.dev/icons?i=nextjs,postgres,prisma,vercel&theme=dark" height="30" />
-        <br />
-        <br />
-        <a href="#"><strong>Explore Case Study →</strong></a>
-      </div>
-    </td>
-    <td width="40%" valign="top">
-      <div align="center">
-        <h3>LLM Evaluator</h3>
-        <p><strong>AI Reliability Framework</strong></p>
-        <p>Testing hallucination rates in RAG pipelines.</p>
-        <br />
-        <img src="https://skillicons.dev/icons?i=python,langchain,openai&theme=dark" height="30" />
-      </div>
-    </td>
-  </tr>
-</table>
+<br/>
+
+<h3>Sankalan V2</h3>
+<p><strong>The Ultimate Student Platform</strong></p>
+<p>A comprehensive ecosystem for students featuring Previous Year Questions (PYQs), dynamic roadmaps, and assignment tracking.</p>
+<img src="https://skillicons.dev/icons?i=nextjs,postgres,prisma,vercel&theme=dark" height="30" />
+<br/>
+<br/>
+<a href="#"><strong>Explore Case Study →</strong></a>
+
+<br/>
+<br/>
+<br/>
+
+<h3>LLM Evaluator</h3>
+<p><strong>AI Reliability Framework</strong></p>
+<p>Testing hallucination rates in RAG pipelines.</p>
+<img src="https://skillicons.dev/icons?i=python,langchain,openai&theme=dark" height="30" />
+
+</div>
 
 <br />
 
-<h3>� Dashboard</h3>
+<h3>📊 Dashboard</h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=pranavgawaii&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" width="100%" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgawaii&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavgawaii&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgawaii&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavgawaii&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavgawaii&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br />
