@@ -6,9 +6,8 @@
   <a href="#-connect"><strong>CONNECT</strong></a>
 
   <br />
-  <br />
 
-  <h1>PRANAV GAWAII</h1>
+  <h1>PRANAV GAWAI</h1>
   <p><em>Engineering the Future with AI & Scale</em></p>
 
 ### **AI ENGINEER & FULL STACK DEVELOPER**
