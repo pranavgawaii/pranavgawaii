@@ -5,8 +5,6 @@
   <a href="#-stack"><strong>STACK</strong></a><span> • </span>
   <a href="#-connect"><strong>CONNECT</strong></a>
 
-  <br />
-
   <h1>PRANAV GAWAI</h1>
   <p><em>Engineering the Future with AI & Scale</em></p>
 
