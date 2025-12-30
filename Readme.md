@@ -1,5 +1,10 @@
 <div align="center">
 
+<a href="#"><strong>HOME</strong></a><span> • </span>
+  <a href="#-portfolio"><strong>WORK</strong></a><span> • </span>
+  <a href="#-stack"><strong>STACK</strong></a><span> • </span>
+  <a href="#-connect"><strong>CONNECT</strong></a>
+
   
 
   <h1>PRANAV GAWAI</h1>
