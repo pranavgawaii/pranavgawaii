@@ -1,4 +1,4 @@
-# Pranav Gawaii
+# Pranav Gawai
 
 > Building systems that think. Quietly.
 
