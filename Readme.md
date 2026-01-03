@@ -1,88 +1,48 @@
-<div align="center">
+# Pranav Gawaii
 
-<a href="#"><strong>HOME</strong></a><span> • </span>
-  <a href="#-portfolio"><strong>WORK</strong></a><span> • </span>
-  <a href="#-stack"><strong>STACK</strong></a><span> • </span>
-  <a href="#-connect"><strong>CONNECT</strong></a>
+> Building systems that think. Quietly.
 
-  
+I am an **AI Engineer & Full Stack Developer** focused on designing intelligent systems and scalable web infrastructure.
 
-  <h1>PRANAV GAWAI</h1>
-  <p><em>Engineering the Future with AI & Scale</em></p>
+My approach is simple: **Craft over chaos.**
+Code should be precise, expressive, and intentional. Like a late-night session where everything just flows.
 
-### **AI ENGINEER & FULL STACK DEVELOPER**
-*Designing Intelligent Systems & Scalable Web Infrastructure*
+---
 
-<br/>
+## ⚡ The Rig
 
-<a href="https://linkedin.com/in/pranavgawaii"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/pranavgawaii"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
-<a href="mailto:pranav@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+No bloat. Just the tools that get the job done.
 
-<br/>
-<br/>
+| **Core** | **Intelligence** | **Infrastructure** |
+| :--- | :--- | :--- |
+| Python, JavaScript | PyTorch, TensorFlow | AWS, Docker |
+| React, Next.js | OpenCV, LangChain | Kubernetes, MongoDB |
 
-</div>
+---
 
-<div align="center">
+## 📂 Selected Works
 
-<h3>🧠 AI & Intelligence</h3>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" height="50" alt="AI Stack" />
+### [Sankalan V2](#)
+**The Utility Belt.** A comprehensive ecosystem for students. It handles Previous Year Questions, dynamic roadmaps, and assignment tracking without the noise.
+*Stack: Next.js, Postgres, Prisma*
 
-<br/>
+### [LLM Evaluator](#)
+**Truth Seeker.** A reliability framework for testing hallucination rates in RAG pipelines. Because AI should actually know what it's talking about.
+*Stack: Python, LangChain, OpenAI*
 
-<h3>⚡ Full Stack Development</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs&theme=dark" height="50" alt="Full Stack" />
+---
 
-<br/>
+## 🕯️ Philosophy
 
-<h3>☁️ Cloud & DevOps</h3>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,mongo&theme=dark" height="50" alt="Cloud Stack" />
+I believe in software that feels human but performs like a machine.
+- **Don't rush.** Speed is a byproduct of clarity.
+- **Deep work.** The best code is written when the world is asleep.
+- **Invent it.** The best way to predict the future is to build it yourself.
 
-</div>
+---
 
-<br />
+## 📬 Frequencies
 
-<div align="center">
+I'm currently running in **Deep Work** mode but always open to signals from fellow builders.
 
-<h3>📂 Portfolio</h3>
-
-<br/>
-
-<h3>Sankalan V2</h3>
-<p><strong>The Ultimate Student Platform</strong></p>
-<p>A comprehensive ecosystem for students featuring Previous Year Questions (PYQs), dynamic roadmaps, and assignment tracking.</p>
-<img src="https://skillicons.dev/icons?i=nextjs,postgres,prisma,vercel&theme=dark" height="30" />
-<br/>
-<br/>
-<a href="#"><strong>Explore Case Study →</strong></a>
-
-<br/>
-<br/>
-<br/>
-
-<h3>LLM Evaluator</h3>
-<p><strong>AI Reliability Framework</strong></p>
-<p>Testing hallucination rates in RAG pipelines.</p>
-<img src="https://skillicons.dev/icons?i=python,langchain,openai&theme=dark" height="30" />
-
-</div>
-
-<br />
-
-<h3>📊 Dashboard</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavgawaii&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgawaii&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavgawaii&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <sub><em>"The best way to predict the future is to invent it!!!"</em></sub>
-</div>
-
-<br />
+[LinkedIn](https://linkedin.com/in/pranavgawaii) • [Twitter](https://twitter.com/pranavgawaii) • [Email](mailto:pranav@example.com)
