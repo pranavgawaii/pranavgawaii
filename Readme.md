@@ -1,48 +1,103 @@
-# Pranav Gawai
+<div align="center">
+  <img src="assets/minimal_banner.png" alt="Banner" width="100%" style="border-radius: 10px;" />
+</div>
 
-> Building systems that think. Quietly.
+<br />
 
-I am an **AI Engineer & Full Stack Developer** focused on designing intelligent systems and scalable web infrastructure.
+<h1 align="center">Hi, I'm Pranav Gawaii 👋</h1>
 
-My approach is simple: **Craft over chaos.**
-Code should be precise, expressive, and intentional. Like a late-night session where everything just flows.
+<p align="center">
+  <b>Developer</b> &nbsp;|&nbsp; <b>Creator</b> &nbsp;|&nbsp; <b>Learner</b>
+</p>
+
+<p align="center">
+  <a href="#-tech-stack">Tech Stack</a> &bull; 
+  <a href="#-featured-projects">Projects</a> &bull; 
+  <a href="#-connect">Connect</a>
+</p>
+
+<br />
+
+> [!NOTE]
+> **About Me**
+>
+> I'm a passionate developer focused on building clean, efficient, and user-centric applications. I love exploring new technologies and turning ideas into reality. I believe in continuous learning and writing code that matters.
+
+<br />
+
+## 🛠️ Tech Stack
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Frontend** | React, Next.js, Tailwind CSS, TypeScript, HTML5, CSS3 |
+| **Backend** | Node.js, Express, Python, Go |
+| **Database** | PostgreSQL, MongoDB, Redis |
+| **DevOps & Tools** | Git, Docker, AWS, Figma, VS Code |
+
+<br />
+
+## 📂 Featured Projects
+
+<details>
+<summary><b>🚀 Project One</b> - <i>Innovative Solution</i></summary>
+<br />
+
+> A brief description of the project goes here. Explain what problem it solves and why it's cool.
+
+- **Stack**: `React` `Node.js` `MongoDB`
+- **Status**: 🟢 Active
+- **Links**: [Live Demo](#) | [Source Code](#)
+
+</details>
+
+<details>
+<summary><b>✨ Project Two</b> - <i>Creative Application</i></summary>
+<br />
+
+> Another project description. Highlight the key features and your role in building it.
+
+- **Stack**: `Python` `Django` `PostgreSQL`
+- **Status**: 🟡 In Development
+- **Links**: [Live Demo](#) | [Source Code](#)
+
+</details>
+
+<details>
+<summary><b>📦 Project Three</b> - <i>Useful Tool</i></summary>
+<br />
+
+> Description of a utility or tool you built.
+
+- **Stack**: `Go` `Docker`
+- **Status**: 🟢 Completed
+- **Links**: [Source Code](#)
+
+</details>
+
+<br />
+
+## 🌐 Connect
+
+<div align="left">
+
+<a href="https://github.com/pranavgawaii" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/pranavgawaii" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:pranav@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+<br />
+<br />
 
 ---
-
-## ⚡ The Rig
-
-No bloat. Just the tools that get the job done.
-
-| **Core** | **Intelligence** | **Infrastructure** |
-| :--- | :--- | :--- |
-| Python, JavaScript | PyTorch, TensorFlow | AWS, Docker |
-| React, Next.js | OpenCV, LangChain | Kubernetes, MongoDB |
-
----
-
-## 📂 Selected Works
-
-### [Sankalan V2](#)
-**The Utility Belt.** A comprehensive ecosystem for students. It handles Previous Year Questions, dynamic roadmaps, and assignment tracking without the noise.
-*Stack: Next.js, Postgres, Prisma*
-
-### [LLM Evaluator](#)
-**Truth Seeker.** A reliability framework for testing hallucination rates in RAG pipelines. Because AI should actually know what it's talking about.
-*Stack: Python, LangChain, OpenAI*
-
----
-
-## 🕯️ Philosophy
-
-I believe in software that feels human but performs like a machine.
-- **Don't rush.** Speed is a byproduct of clarity.
-- **Deep work.** The best code is written when the world is asleep.
-- **Invent it.** The best way to predict the future is to build it yourself.
-
----
-
-## 📬 Frequencies
-
-I'm currently running in **Deep Work** mode but always open to signals from fellow builders.
-
-[LinkedIn](https://linkedin.com/in/pranavgawaii) • [Twitter](https://twitter.com/pranavgawaii) • [Email](mailto:pranav@example.com)
+<p align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
+</p>
