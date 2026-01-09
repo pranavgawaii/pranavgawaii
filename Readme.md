@@ -1,4 +1,4 @@
-# Pranav Gawaii
+# Pranav Gawai
 
 Technical record of engineering progress and systems study.
 
