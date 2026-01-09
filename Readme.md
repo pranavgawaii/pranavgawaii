@@ -1,32 +1,30 @@
 # Pranav Gawaii
 
-Work log for engineering progress, technical studies, and systems experimentation.
+Technical record of engineering progress and systems study.
 
 ## Overview
 
-I approach Computer Science as a discipline of trade-offs and constraints. My focus is on understanding the fundamental layers of software—operating systems, networking, and memory management—before reaching for abstractions. This profile serves as a continuous record of that learning process, prioritizing clarity and function over aesthetics.
+I approach software engineering through the lens of constraints and trade-offs. My primary interest lies in the fundamental layers of computing—operating systems, memory management, and networking. This repository documents my study of these core principles and my efforts to build reliable, efficient systems.
 
-## Areas of Work
+## Technical Focus
 
-*   **Systems Engineering**: Distributed architecture, concurrency, and lower-level logic.
+*   **Systems & Backend**: Distributed architecture, concurrency models, low-level logic.
 *   **Languages**: Go, Java, Python, C++, SQL.
-*   **Problem Space**: Backend infrastructure, API design, data structure efficiency.
+*   **Problem Domains**: Backend infrastructure, API design, data structure efficiency.
 
-## Repository Philosophy
+## Repository Structure
 
-This space is not a showroom; it is a workshop. You will find:
+*   **Implementations**: Functional builds of core components, such as load balancers and databases.
+*   **Experiments**: Proof-of-concept code for testing specific technologies or hypotheses.
+*   **Drills**: Algorithmic solutions and standard data structure implementations.
 
-*   **Implementations**: Functional attempts at building core components like load balancers and databases.
-*   **Experiments**: Proof-of-concept code designed to test specific hypotheses or technologies.
-*   **Drills**: Algorithmic solutions and data structure implementations.
-
-## Current Focus
+## Current Work
 
 *   Studying distributed system consistency models.
-*   Refining idiomatic Go and concurrency patterns.
-*   Optimizing database query performance and schema design.
+*   Refining idiomatic Go patterns for production environments.
+*   Optimizing database schema design and query performance.
 
-## Notes
+## Socials
 
 [x.com/pranavgawai_](https://x.com/pranavgawai_)
 
