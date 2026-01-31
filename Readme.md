@@ -54,7 +54,7 @@ I'm a **Full Stack Developer** and **AI Enthusiast** who loves building scalable
 
 <div align="center">
   <a href="https://github.com/pranavgawaii">
-    <img src="https://github-readme-stats.vercel.app/api?username=pranavgawaii&show_icons=true&theme=radical&count_private=true" alt="Pranav's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pranavgawaii&show_icons=true&theme=radical" alt="Pranav's GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/pranavgawaii">
