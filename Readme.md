@@ -6,8 +6,21 @@
   </p>
 
   <p align="center">
+    <!-- LinkedIn -->
     <a href="https://linkedin.com/in/pranavgawai" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin,twitter,gmail,medium&theme=dark" alt="My Skills" />
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <!-- X (Twitter) -->
+    <a href="https://x.com/pranavgawai_" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    <!-- Email -->
+    <a href="mailto:pranavvgawai@gmail.com">
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <!-- Portfolio -->
+    <a href="https://pranavx.in" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 </div>
@@ -42,20 +55,6 @@ I'm a **Full Stack Developer** and **AI Enthusiast** who loves building scalable
 ## 📊 Analytics & Activity
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/pranavgawaii">
-    <img src="https://github-readme-stats.vercel.app/api?username=pranavgawaii&show_icons=true&theme=dark" alt="Pranav's GitHub Stats" />
-  </a>
-  
-  <br/>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/pranavgawaii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgawaii&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
-  </a>
-
-  <br/>
-  
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavgawaii&theme=react-dark" alt="Pranav's Activity Graph" />
 </div>
