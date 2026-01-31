@@ -7,27 +7,9 @@
 
   <p align="center">
     <a href="https://linkedin.com/in/pranavgawai" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://x.com/pranavgawai_" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-    </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://medium.com/@pranavgawai">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+      <img src="https://skillicons.dev/icons?i=linkedin,twitter,gmail,medium&theme=dark" alt="My Skills" />
     </a>
   </p>
-</div>
-
----
-
-<div align="center">
-  <h2>🏆 GitHub Achievements</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pranavgawaii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="pranavgawaii" />
-  </a>
 </div>
 
 ---
@@ -60,10 +42,22 @@ I'm a **Full Stack Developer** and **AI Enthusiast** who loves building scalable
 ## 📊 Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavgawaii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Stats -->
+  <a href="https://github.com/pranavgawaii">
+    <img src="https://github-readme-stats.vercel.app/api?username=pranavgawaii&show_icons=true&theme=dark" alt="Pranav's GitHub Stats" />
+  </a>
+  
   <br/>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/pranavgawaii">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgawaii&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+  </a>
+
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgawaii&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavgawaii&theme=react-dark" alt="Pranav's Activity Graph" />
 </div>
 
 ---
