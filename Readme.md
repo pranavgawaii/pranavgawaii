@@ -64,7 +64,7 @@ I'm a **Full Stack Developer** and **AI Enthusiast** who loves building scalable
 <div align="center">
   <br>
   <h3>"You don’t get what you wish for, you get what you work for." — Virat Kohli</h3>
-  <p>Design & Developed by <a href="https://github.com/pranavgawaii">pranavgawai</a> © 2025</p>
+  <p> <a href="https://github.com/pranavgawaii">pranavgawai</a> © 2026</p>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=pranavgawaii&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
