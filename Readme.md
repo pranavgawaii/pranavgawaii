@@ -54,11 +54,11 @@ I'm a **Full Stack Developer** and **AI Enthusiast** who loves building scalable
 
 <div align="center">
   <a href="https://github.com/pranavgawaii">
-    <img src="https://github-readme-stats.vercel.app/api?username=pranavgawaii&show_icons=true&theme=radical" alt="Pranav's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pranavgawaii&show_icons=true&theme=radical&count_private=true&disable_animations=true&cache_seconds=1800" alt="Pranav's GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/pranavgawaii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgawaii&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgawaii&layout=compact&theme=radical&disable_animations=true&cache_seconds=1800" alt="Top Languages" />
   </a>
 </div>
 
