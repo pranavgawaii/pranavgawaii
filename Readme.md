@@ -1,10 +1,5 @@
-<div align="center">
-  <br /><br />
-  <h1>Pranav Gawai</h1>
-  <p><b>Turning ideas into working products</b></p>
-  <br /><br />
-</div>
-
+# Pranav Gawai
+*Turning ideas into working products*
 
 ---------------
 Connect With Me
