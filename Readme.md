@@ -5,8 +5,8 @@
 Connect With Me
 <br />
 
-» X / Twitter &nbsp;&nbsp;&nbsp; → &nbsp; https://x.com/pranavgawai_ <br />
-» Portfolio &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → &nbsp; https://pranavx.in <br />
+» X / Twitter &nbsp;&nbsp;&nbsp; → &nbsp; https://x.com/pranavgawai_/ <br />
+» Portfolio &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → &nbsp; https://pranavx.in/ <br />
 » LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → &nbsp; https://www.linkedin.com/in/pranavgawai/ <br />
 » Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → &nbsp; pranavvgawai@gmail.com <br />
 <br />
