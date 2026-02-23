@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="./header.svg" width="600" />
+  <br /><br />
+  <h1>Pranav Gawai</h1>
+  <p><b>Turning ideas into working products</b></p>
+  <br /><br />
 </div>
-<br />
 
 
 ---------------
