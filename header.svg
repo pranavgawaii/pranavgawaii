@@ -1,0 +1,62 @@
+<svg fill="none" viewBox="0 0 600 120" width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @keyframes shine {
+                    0% { opacity: 0.5; transform: scale(0.9); }
+                    50% { opacity: 1; transform: scale(1.1); }
+                    100% { opacity: 0.5; transform: scale(0.9); }
+                }
+                .container {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    height: 120px;
+                    font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+                }
+                .name-wrapper {
+                    display: flex;
+                    align-items: center;
+                }
+                .name {
+                    font-size: 56px;
+                    font-weight: 800;
+                    color: #000;
+                    margin: 0;
+                    letter-spacing: -3.5px;
+                    line-height: 0.9;
+                    text-transform: uppercase;
+                }
+                .subtitle {
+                    font-size: 16px;
+                    font-weight: 500;
+                    color: #666;
+                    margin: 10px 0 0 4px;
+                    letter-spacing: 1px;
+                    opacity: 0.7;
+                }
+                .bolt {
+                    width: 40px;
+                    height: 40px;
+                    margin-left: 10px;
+                    fill: #0070f3;
+                    animation: shine 2s ease-in-out infinite;
+                }
+                @media (prefers-color-scheme: dark) {
+                    .name { color: #fff; }
+                    .subtitle { color: #999; }
+                    .bolt { fill: #3291ff; }
+                }
+            </style>
+            <div class="container">
+                <div class="name-wrapper">
+                    <h1 class="name">PRANAV GAWAI</h1>
+                    <svg class="bolt" viewBox="0 0 24 24">
+                        <path d="M13 10V2L4 14H11V22L20 10H13Z" />
+                    </svg>
+                </div>
+                <p class="subtitle">Turning ideas into working products</p>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
