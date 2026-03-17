@@ -5,10 +5,17 @@
 Connect With Me
 <br />
 
+<<<<<<< Updated upstream
 » X / Twitter &nbsp;&nbsp;&nbsp; → &nbsp; https://x.com/pranavgawai_/ <br />
 » Portfolio &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → &nbsp; https://pranavx.in/ <br />
 » LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → &nbsp; https://www.linkedin.com/in/pranavgawai/ <br />
 » Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → &nbsp; pranavvgawai@gmail.com <br />
+=======
+<code>➜ primary email: [pranavvgawai@gmail.com](mailto:pranavvgawai@gmail.com)</code><br>
+<code>➜ linkedin: [pranav gawai](https://www.linkedin.com/in/pranavgawai/)</code><br>
+<code>➜ twitter: [pranavgawai_](https://x.com/pranavgawai_)</code><br>
+<code>➜ portfolio: [pranavx.in](https://pranavx.in)</code><br>
+>>>>>>> Stashed changes
 <br />
 
 --------------
