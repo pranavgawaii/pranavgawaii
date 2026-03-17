@@ -1,27 +1,27 @@
 # Pranav Gawai
 *Turning ideas into working products*
 
----------------
+
 Connect With Me
 <br />
 
 <code>➜ primary email: [pranavvgawai@gmail.com](mailto:pranavvgawai@gmail.com)</code><br>
-<code>➜ linkedin: [pranav gawai](https://www.linkedin.com/in/pranavgawai/)</code><br>
+<code>➜ linkedin: [pranavgawai](https://www.linkedin.com/in/pranavgawai/)</code><br>
 <code>➜ twitter: [pranavgawai_](https://x.com/pranavgawai_)</code><br>
 <code>➜ portfolio: [pranavx.in](https://pranavx.in)</code><br>
 <br />
 
---------------
+
 Skills & Tools
 <br />
 
-» Backend: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Go, Node.js, Python, Java, Django, Spring Boot <br />
-» Frontend: &nbsp;&nbsp;&nbsp;&nbsp; React, TypeScript, JavaScript, HTML5, CSS3, Framer <br />
-» Databases: &nbsp;&nbsp;&nbsp; PostgreSQL, MongoDB, MySQL, Redis, Supabase <br />
-» DevOps: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Docker, Git, Linux, Postman, Vercel <br />
+<code>➜ backend: Go, Node.js, Python, Java, Django, Spring Boot</code><br>
+<code>➜ frontend: React, TypeScript, JavaScript, HTML5, CSS3, Framer</code><br>
+<code>➜ databases: PostgreSQL, MongoDB, MySQL, Redis, Supabase</code><br>
+<code>➜ devops: Docker, Git, Linux, Postman, Vercel</code><br>
 <br />
 
---------------------------
+
 Thanks for stopping by! :)
 <br />
 
