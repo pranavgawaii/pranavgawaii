@@ -11,7 +11,6 @@
 <code>➜ primary email: [pranavvgawai@gmail.com](mailto:pranavvgawai@gmail.com)</code><br>
 <code>➜ linkedin: [pranavgawai](https://www.linkedin.com/in/pranavgawai/)</code><br>
 <code>➜ twitter: [pranavgawai_](https://x.com/pranavgawai_)</code><br>
-<code>➜ github: [pranavgawaii](https://github.com/pranavgawaii)</code><br>
 <code>➜ portfolio: [pranavx.in](https://pranavx.in)</code><br>
 <br />
 
