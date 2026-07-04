@@ -1,16 +1,9 @@
 # Pranav Gawai
-*Turning ideas into working products*
+*Building products, exploring systems, and learning by shipping.*
 
-<code>now building: [PlacePro](https://github.com/pranavgawaii/PlacePro)</code><br>
-<code>status: Open to work | </code><br>
-<code>location: Pune, Maharashtra</code><br>
-
-Thanks for stopping by! :)
-<br />
-
-Feel free to say hi, share ideas, or just grab a virtual coffee ☕︎ <br />
-Let's build something cool together <3
-<br />
+<code>💻 Now building: [PlacePro](https://github.com/pranavgawaii/PlacePro)</code><br>
+<code>📄 Resume: [View](https://www.prnv.site/)</code><br>
+<code>🌐 Portfolio: [Link](https://pranavx.in)</code><br>
 
 <div align="center">
   <br />
