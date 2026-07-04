@@ -1,7 +1,7 @@
 # Pranav Gawai
 *Building products, exploring systems, and learning by shipping.*
 
-<code>💻 Now building: [PlacePro](https://github.com/pranavgawaii/PlacePro)</code><br>
+<code>💻 Now building: [Auren](https://github.com/pranavgawaii/Auren)</code><br>
 <code>📄 Resume: [View](https://www.prnv.site/)</code><br>
 <code>🌐 Portfolio: [Link](https://pranavx.in)</code><br>
 
